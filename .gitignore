@@ -1,1 +1,2 @@
-/backend/private.env
+backend/private.env
+backend/.venv
